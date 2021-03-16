@@ -8,6 +8,8 @@ int n;
 
 void solve() {
 
+  cin >> n;
+
 }
 
 int main() {
